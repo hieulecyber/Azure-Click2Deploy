@@ -32,7 +32,7 @@
     },
     "vmAdminUser": {
       "type": "string",
-      "defaultValue": "azureuser",
+      "defaultValue": "hieule",
       "metadata": {
         "description": "Enter a username for accessing your VM(s)."
       }
@@ -45,7 +45,7 @@
     },
     "scriptName": {
       "type": "string",
-      "defaultValue": "cse-vmGeneric.ps1",
+      "defaultValue": "",
       "metadata": {
         "description": "Enter the name of the CSE script to run (recommended to leave as-is)."
       }
@@ -53,7 +53,7 @@
     "scriptUris": {
       "type": "array",
       "defaultValue": [
-        "[format('https://raw.githubusercontent.com/jamesdplee/cloudlee-click2deploy/main/scripts/{0}', parameters('scriptName'))]"
+        ""
       ],
       "metadata": {
         "description": "Enter the name of the CSE script URI (recommended to leave as-is)."
