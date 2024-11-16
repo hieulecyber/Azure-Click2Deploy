@@ -52,9 +52,7 @@
     },
     "scriptUris": {
       "type": "array",
-      "defaultValue": [
-        ""
-      ],
+      "defaultValue": [],
       "metadata": {
         "description": "Enter the name of the CSE script URI (recommended to leave as-is)."
       }
