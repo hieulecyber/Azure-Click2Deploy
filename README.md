@@ -1,2 +1,4 @@
 # Entra-ID-Labs
-Repo for Entra ID services 
+Một số template ARM triển khai nhanh trên Azure
+![Deploy to Azure](https://aka.ms/deploytoazurebutton)
+<img src="https://aka.ms/deploytoazurebutton"/>
